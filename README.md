@@ -2,6 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Django](https://img.shields.io/badge/Django-5.2.6-006400)
+![Pandas](https://img.shields.io/badge/Pandas-1.5.3-1f77b4?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-ff7f0e?logo=matplotlib&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-3.6.12-4B8BBE?logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## 📌 Sobre o Projeto

@@ -20,7 +20,7 @@ Este projeto foi desenvolvido para processar arquivos CSV ou XLSX contendo notas
 - **Geração de gráficos dinâmicos:** Gráfico de pizza da distribuição e gráfico de barras do desempenho.
 - **Relatório PDF completo:** Inclui dados, estatísticas e gráficos.
 - **Download dos arquivos gerados:** PDF e gráficos disponíveis para download via botões.
-- **Tabela HTML estilizada:** Exibição dos dados com formatação responsiva e alinhada.
+- **Tabela HTML estilizada:** Exibição dos dados com formatação responsiva.
 
 ---
 

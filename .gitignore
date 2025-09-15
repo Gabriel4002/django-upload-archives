@@ -1,0 +1,10 @@
+.env
+.vscode/
+.idea/
+*.rar
+*.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*venv
